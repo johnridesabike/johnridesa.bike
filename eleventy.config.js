@@ -105,6 +105,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets/video");
   eleventyConfig.addPassthroughCopy("assets/images");
   eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("favicon.png");
   eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPlugin(acutis.plugin, { components: acutisComponents });
   eleventyConfig.addPlugin(syntaxHighlight, {

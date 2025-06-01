@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="j master.svg"
+   inkscape:export-filename="../images/j.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="5.9792458"
+     inkscape:cx="65.560108"
+     inkscape:cy="65.727353"
+     inkscape:window-width="1624"
+     inkscape:window-height="1027"
+     inkscape:window-x="92"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer5"
+     showgrid="true"
+     showguides="false">
+    <inkscape:grid
+       type="modular"
+       id="grid327"
+       units="px"
+       originx="64"
+       originy="64"
+       spacingx="6"
+       spacingy="6"
+       empcolor="#0047cb"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="0"
+       marginx="0"
+       marginy="0"
+       gapx="4"
+       gapy="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient462"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0d1a16;stop-opacity:1;"
+         offset="0"
+         id="stop462" />
+      <stop
+         style="stop-color:#2f3c39;stop-opacity:1;"
+         offset="1"
+         id="stop463" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient462"
+       id="linearGradient463"
+       x1="64"
+       y1="128"
+       x2="64"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline"
+     inkscape:highlight-color="#0d1a16">
+    <rect
+       style="fill:url(#linearGradient463)"
+       id="rect51"
+       width="128"
+       height="128"
+       x="0"
+       y="0"
+       inkscape:label="Black gradient" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="All colors"
+     style="display:none"
+     inkscape:highlight-color="#b9fc7e">
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect327-75-9-5"
+       width="6"
+       height="16"
+       x="56"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.05" />
+    <rect
+       style="fill:#38665b;fill-opacity:1"
+       id="rect327-14-4-7"
+       width="16"
+       height="6"
+       x="26"
+       y="56"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.04" />
+    <rect
+       style="fill:#f2d479;fill-opacity:1"
+       id="rect327-7-0-1-4-6"
+       width="16"
+       height="6"
+       x="46"
+       y="56"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.03" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect327-75-9-5-4-8-2-4"
+       width="16"
+       height="6"
+       x="46"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.02" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect327-7-0"
+       width="16"
+       height="6"
+       x="26"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.01" />
+    <rect
+       style="fill:#7ee6cc;fill-opacity:1"
+       id="rect327-75-9-5-8"
+       width="6"
+       height="16"
+       x="96"
+       y="86"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 3.03" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect327-75-9-5-8-8"
+       width="6"
+       height="16"
+       x="96"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 3.02" />
+    <rect
+       style="fill:#f2d479;fill-opacity:1"
+       id="rect327-75-9-5-8-8-1"
+       width="6"
+       height="16"
+       x="96"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 3.01" />
+    <rect
+       style="fill:#ff758f;fill-opacity:1"
+       id="rect327-75-9-5-42-7"
+       width="6"
+       height="26"
+       x="16"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.12" />
+    <rect
+       style="fill:#736439;fill-opacity:1"
+       id="rect327-75-9-5-42-7-5"
+       width="6"
+       height="26"
+       x="16"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.11" />
+    <rect
+       style="fill:#b9fc7e"
+       id="rect327-75-9-5-42-7-5-1"
+       width="6"
+       height="26"
+       x="16"
+       y="76"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.10" />
+    <rect
+       style="fill:#38665b;fill-opacity:1"
+       id="rect327-75-9-5-75-5-4-4"
+       width="26"
+       height="6"
+       x="16"
+       y="106"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.09" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect327-75-9-5-75-5-4-4-5"
+       width="26"
+       height="6"
+       x="46"
+       y="106"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.08" />
+    <rect
+       style="fill:#794180;fill-opacity:1"
+       id="rect327-75-9-5-75-5-4-4-5-5"
+       width="26"
+       height="6"
+       x="76"
+       y="106"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.07" />
+    <rect
+       style="fill:#f382ff;fill-opacity:1"
+       id="rect327-14-4-3-9"
+       width="6"
+       height="26"
+       x="106"
+       y="86"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.06" />
+    <rect
+       style="fill:#3e4a7d;fill-opacity:1"
+       id="rect327-7-0-26-4"
+       width="6"
+       height="26"
+       x="106"
+       y="56"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.05" />
+    <rect
+       style="fill:#7ee6cc;fill-opacity:1"
+       id="rect136"
+       width="6"
+       height="26"
+       x="106"
+       y="26"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.04" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect327-75-9-5-75-58"
+       width="26"
+       height="6"
+       x="86"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.03" />
+    <rect
+       style="fill:#f2d479;fill-opacity:1"
+       id="rect327-75-9-5-75-58-3"
+       width="26"
+       height="6"
+       x="56"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.02" />
+    <rect
+       style="fill:#8c4151;fill-opacity:1"
+       id="rect327-75-9-5-75-58-3-5"
+       width="26"
+       height="6"
+       x="26"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.01" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect327-7"
+       width="6"
+       height="26"
+       x="6"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.16" />
+    <rect
+       style="fill:#7ee6cc;fill-opacity:1"
+       id="rect327-75-0"
+       width="6"
+       height="26"
+       x="6"
+       y="36"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.15" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect327-75-9-5-42"
+       width="6"
+       height="16"
+       x="6"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.14" />
+    <rect
+       style="fill:#3e4a7d;fill-opacity:1"
+       id="rect327-75-9-5-4"
+       width="6"
+       height="26"
+       x="6"
+       y="86"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.13" />
+    <rect
+       style="fill:#f382ff;fill-opacity:1"
+       id="rect327-75-9-5-4-8-2"
+       width="26"
+       height="6"
+       x="6"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.12" />
+    <rect
+       style="fill:#8c4151;fill-opacity:1"
+       id="rect327-7-0-2"
+       width="26"
+       height="6"
+       x="36"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.11" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect327-75-9-5-75-5-4"
+       width="16"
+       height="6"
+       x="66"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.10" />
+    <rect
+       style="fill:#f2d479;fill-opacity:1"
+       id="rect327-7-2"
+       width="26"
+       height="6"
+       x="86"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.09" />
+    <rect
+       style="fill:#736439;fill-opacity:1"
+       id="rect327-75-9"
+       width="6"
+       height="26"
+       x="116"
+       y="96"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.08" />
+    <rect
+       style="fill:#ff758f;fill-opacity:1"
+       id="rect327-14-4-3"
+       width="6"
+       height="26"
+       x="116"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.07" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect327-75-9-5-75-5"
+       width="6"
+       height="16"
+       x="116"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.06" />
+    <rect
+       style="fill:#794180;fill-opacity:1"
+       id="rect327-14-4"
+       width="6"
+       height="26"
+       x="116"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.05" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect327-75"
+       width="26"
+       height="6"
+       x="96"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.04" />
+    <rect
+       style="fill:#38665b;fill-opacity:1"
+       id="rect327-7-0-26"
+       width="26"
+       height="6"
+       x="66"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.03" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect327-75-9-5-75"
+       width="16"
+       height="6"
+       x="46"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.02" />
+    <rect
+       style="fill:#b9fc7e"
+       id="rect327-14-4-3-5-5"
+       width="26"
+       height="6"
+       x="16"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.01" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g97"
+     inkscape:label="Earth colors"
+     style="display:inline"
+     inkscape:highlight-color="#7e95fc">
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect1"
+       width="6"
+       height="16"
+       x="56"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.05" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect2"
+       width="16"
+       height="6"
+       x="26"
+       y="56"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.04" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect3"
+       width="16"
+       height="6"
+       x="46"
+       y="56"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.03" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect4"
+       width="16"
+       height="6"
+       x="46"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.02" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect5"
+       width="16"
+       height="6"
+       x="26"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 4.01" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect6"
+       width="6"
+       height="16"
+       x="96"
+       y="86"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 3.03" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect7"
+       width="6"
+       height="16"
+       x="96"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 3.02" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect8"
+       width="6"
+       height="16"
+       x="96"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 3.01" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect9"
+       width="6"
+       height="26"
+       x="16"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.12" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect10"
+       width="6"
+       height="26"
+       x="16"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.11" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect11"
+       width="6"
+       height="26"
+       x="16"
+       y="76"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.10" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect12"
+       width="26"
+       height="6"
+       x="16"
+       y="106"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.09" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect13"
+       width="26"
+       height="6"
+       x="46"
+       y="106"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.08" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect14"
+       width="26"
+       height="6"
+       x="76"
+       y="106"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.07" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect15"
+       width="6"
+       height="26"
+       x="106"
+       y="86"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.06" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect16"
+       width="6"
+       height="26"
+       x="106"
+       y="56"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.05" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect17"
+       width="6"
+       height="26"
+       x="106"
+       y="26"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.04" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect18"
+       width="26"
+       height="6"
+       x="86"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.03" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect19"
+       width="26"
+       height="6"
+       x="56"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.02" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect81"
+       width="26"
+       height="6"
+       x="26"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 2.01" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect82"
+       width="6"
+       height="26"
+       x="6"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.16" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect83"
+       width="6"
+       height="26"
+       x="6"
+       y="36"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.15" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect84"
+       width="6"
+       height="16"
+       x="6"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.14" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect85"
+       width="6"
+       height="26"
+       x="6"
+       y="86"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.13" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect86"
+       width="26"
+       height="6"
+       x="6"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.12" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect87"
+       width="26"
+       height="6"
+       x="36"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.11" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect88"
+       width="16"
+       height="6"
+       x="66"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.10" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect89"
+       width="26"
+       height="6"
+       x="86"
+       y="116"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.09" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect90"
+       width="6"
+       height="26"
+       x="116"
+       y="96"
+       rx="2.7347443"
+       ry="3"
+       inkscape:label="Dot 1.08" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect91"
+       width="6"
+       height="26"
+       x="116"
+       y="66"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.07" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect92"
+       width="6"
+       height="16"
+       x="116"
+       y="46"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.06" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect93"
+       width="6"
+       height="26"
+       x="116"
+       y="16"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.05" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect94"
+       width="26"
+       height="6"
+       x="96"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.04" />
+    <rect
+       style="fill:#5c7d3e;fill-opacity:1"
+       id="rect95"
+       width="26"
+       height="6"
+       x="66"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.03" />
+    <rect
+       style="fill:#95b1ae;fill-opacity:1"
+       id="rect96"
+       width="16"
+       height="6"
+       x="46"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.02" />
+    <rect
+       style="fill:#7e95fc;fill-opacity:1"
+       id="rect97"
+       width="26"
+       height="6"
+       x="16"
+       y="6"
+       rx="3"
+       ry="3"
+       inkscape:label="Dot 1.01" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="J solid"
+     style="display:inline"
+     inkscape:highlight-color="#95b1ae">
+    <rect
+       style="fill:#e7ffff;fill-opacity:1"
+       id="rect116-1-8"
+       width="26"
+       height="36"
+       x="26"
+       y="66"
+       ry="6"
+       inkscape:label="Left"
+       rx="6" />
+    <rect
+       style="fill:#e7ffff;fill-opacity:1"
+       id="rect116-1"
+       width="66"
+       height="16"
+       x="26"
+       y="86"
+       ry="6"
+       inkscape:label="Bottom"
+       rx="6" />
+    <rect
+       style="fill:#e7ffff;fill-opacity:1"
+       id="rect117"
+       width="26"
+       height="76"
+       x="66"
+       y="26"
+       ry="6"
+       inkscape:label="Right"
+       rx="6" />
+    <rect
+       style="fill:#e7ffff;fill-opacity:1"
+       id="rect116"
+       width="76"
+       height="16"
+       x="26"
+       y="26"
+       ry="6"
+       inkscape:label="Top"
+       rx="6" />
+  </g>
+</svg>
