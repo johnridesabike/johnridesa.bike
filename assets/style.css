@@ -556,6 +556,7 @@ big {
 
 .frontpage__thumbnail_img {
   max-width: 100px;
+  border-radius: 10px;
 }
 
 /*******************************************************************************
@@ -836,7 +837,7 @@ svg.feather {
 .mrk__field__code {
   color: var(--color-mrk);
   font-family: var(--font-code);
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-xs);
   text-transform: none;
   font-weight: 400;
   letter-spacing: normal;
@@ -863,6 +864,13 @@ svg.feather {
 .mrk__field {
   display: flex;
   column-gap: 1ch;
+}
+
+@media screen and (--tablet-portrait-up) {
+  .mrk__tag,
+  .mrk__field__code {
+    font-size: var(--font-size-sm);
+  }
 }
 
 /*******************************************************************************
