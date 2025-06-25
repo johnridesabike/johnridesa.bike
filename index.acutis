@@ -124,8 +124,8 @@
       }
     %}
       I spent enough time looking at the Vim text editor that I made my own
-      color scheme for it and called the scheme Stella Maris. It's simple,
-      accessible, and looks good to my eyes.
+      color scheme, and I called it Stella Maris. It's simple, accessible, and
+      looks good to my eyes.
     {% /Mrk_AddedEntryTitle %}
     {% Mrk_AddedEntryTitle
       title="Maximum weighted matching finder"
