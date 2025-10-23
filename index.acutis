@@ -66,8 +66,8 @@
     {% /Mrk %}
     {% Mrk tag=856 ind1=!0 dir=@"column" %}
       {% Sub field="y" %} 
-          <a href="mailto:jbpjackson+website@icloud.com">
-            {% Feather icon="mail" / %} Email me.
+          <a href="mailto:john@johnridesa.bike">
+            {% Feather icon="mail" / %} Email me: john@johnridesa.bike
           </a>
       {% /Sub %}
     {% /Mrk %}
