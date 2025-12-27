@@ -1,5 +1,5 @@
 ---
-title: How I built Bike Walk Life with free & freemium software
+title: How I built my blog Bike Walk Life with free & freemium software
 date: 2025-12-27
 description: |
   I built my blog Bike Walk Life from scratch. This is a summary of the software
