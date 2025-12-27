@@ -121,6 +121,11 @@
   {% Sub field="a" %} Career development {% /Sub %}
 {% /Mrk %}
 {% Mrk tag=611 ind1=!2 ind2=!4 dir=@"row" %}
+  {% Sub field="a" %} Georgia Bike-Walk-Live Summit {% /Sub %}
+  {% Sub field="d" %} 2025, {% /Sub %}
+  {% Sub field="g" %} panelist. {% /Sub %}
+{% /Mrk %}
+{% Mrk tag=611 ind1=!2 ind2=!4 dir=@"row" %}
   {% Sub field="a" %} Georgia Library Conference {% /Sub %}
   {% Sub field="d" %} 2024, {% /Sub %}
   {% Sub field="g" %} attendee. {% /Sub %}
