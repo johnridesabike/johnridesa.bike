@@ -113,6 +113,13 @@
       project each shape in its entirety or as a three-dimensional "slice" that
       simulates how the shape would appear passing through our space.
     {% /Mrk_AddedEntryTitle %}
+    {% Mrk_AddedEntryTitle_Page
+      page=collections.bikewalklife
+      thumbnail=!{
+        @kind: "image",
+        image: "/assets/vector/bikewalklife-logo.svg",
+        caption: "Bike Walk Life logo."
+      } / %}
     {% Mrk_AddedEntryTitle
       title="Stella Maris Vim color scheme"
       fullPath="https://sr.ht/~johnridesabike/vim-stella-maris/"
