@@ -126,8 +126,8 @@ brings us to the "social" features...
 
 [Atom web feed]: https://bikewalk.life/feed.xml
 [Mailchimp]: https://mailchimp.com/
-[Bluesky]: https://bsky.app/
-[Mastodon]: https://indieweb.social/
+[Bluesky]: https://bsky.app/profile/bikewalk.life
+[Mastodon]: https://indieweb.social/@bikewalklife
 [POSSE]: https://indieweb.org/POSSE
 
 ## Likes, reposts, and comments
