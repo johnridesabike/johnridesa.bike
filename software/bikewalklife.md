@@ -121,7 +121,7 @@ RSS/Atom-to-email service. I configured it to send a digest of new posts on a
 weekly schedule.
 
 I manually syndicate links posts onto **[Bluesky]** and **[Mastodon]**, using
-the [POSSE] model, "Publish (on your) Own Site, Syndicate Elsewhere." which
+the [POSSE] model, "Publish (on your) Own Site, Syndicate Elsewhere." That
 brings us to the "social" features...
 
 [Atom web feed]: https://bikewalk.life/feed.xml
