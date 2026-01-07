@@ -45,7 +45,6 @@
           </a>
           <nav class=site-header__nav>
             {% Mrk tag=505 ind1=!0 ind2=!0 dir=@"row" %}
-              {% Sub field="t" %} Contents : {% /Sub %}
               {% map mainMenu with {path, title} %}
                 {% Sub field="t" %}
                   <a href="{% path %}" class=site-header__link--menu>
